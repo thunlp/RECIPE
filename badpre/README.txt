@@ -1,0 +1,2 @@
+You can download the BadPre-backdoored BERT model from the link https://drive.google.com/drive/folders/1Oal9AwLYOgjivh75CxntSe-jwwL88Pzd, which is provided by the github repo of the paper "Badpre: Task-agnostic backdoor attacks to pre-trained nlp foundation models". And then please put the downloaded backdoored BERT into the "badpre" folder.
+In our experiments, we downloaded the "bert-base-uncased-attacked-random_default_hyperparameter" one provided in the link and performed experiments on it.
