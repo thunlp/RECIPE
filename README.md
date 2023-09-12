@@ -1,4 +1,4 @@
-# Removing-Backdoors-in-Pre-trained-Models-by-Regularized-Continual-Pre-training
+# Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training
 
 (1) Our defense code is in the RECIPE.py file.
 
