@@ -15,3 +15,5 @@ To run our defense code, you can run the script `CUDA_VISIBLE_DEVICES=0 python R
 (4) The auxiliary data (plain texts) for purification is in the "bookcorpus" folder.
 
 (5) The downstream SST-2 data is in the "data" folder.
+
+(6) For additional results and implementation details, please refer to the appendix.pdf file.
